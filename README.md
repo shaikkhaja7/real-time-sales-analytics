@@ -79,6 +79,12 @@ real_time_sales_analytics/
 
 ---
 
+
+👤 Author
+Shaik Khaja Naseeruddin Baba
+Aspiring Data Analyst / Data Engineer
+
+
 ## ▶️ How to Run the Project
 
 ```bash
@@ -93,3 +99,6 @@ python automation.py
 
 # In new terminal: start dashboard
 streamlit run dashboard/app.py
+Open browser at:
+http://localhost:8501
+
